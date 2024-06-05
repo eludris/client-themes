@@ -1,8 +1,9 @@
 [
     {
         "name": "Eludris-Lonetrail",
-        "repo-url": "https://github.com/sharp-eyes/eludris-lonetrail-theme",
+        "author": "Sharp-Eyes",
         "description": "A theme styled after Arknights' Lonetrail event.",
-        "cover-image": "https://cdn.eludris.gay/4352031391774"
+        "cover_url": "https://cdn.eludris.gay/4352031391774",
+        "repo_url": "https://github.com/sharp-eyes/eludris-lonetrail-theme"
     }
 ]
