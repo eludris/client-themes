@@ -1,9 +1,21 @@
 [
     {
-        "name": "Eludris-Lonetrail",
+        "name": "Eludris-Lonetrail Light",
         "author": "Sharp-Eyes",
-        "description": "A theme styled after Arknights' Lonetrail event.",
+        "description": "A 'light-mode' theme styled after Arknights' Lonetrail event.",
         "cover_url": "https://cdn.eludris.gay/4352031391774",
-        "repo_url": "https://github.com/sharp-eyes/eludris-lonetrail-theme"
+        "repo_url": "https://github.com/sharp-eyes/eludris-lonetrail-theme/tree/main/light",
+        "readme_url": "https://raw.githubusercontent.com/Sharp-Eyes/eludris-lonetrail-theme/refs/heads/main/light/README.md",
+        "style_url": "https://raw.githubusercontent.com/Sharp-Eyes/eludris-lonetrail-theme/refs/heads/main/light/style.css"
+    },
+    {
+        "name": "Eludris-Lonetrail Dark",
+        "author": "Sharp-Eyes",
+        "description": "A 'dark-mode' theme styled after Arknights' Lonetrail event.",
+        "cover_url": "https://cdn.eludris.gay/next/5540293312559",
+        "repo_url": "https://github.com/sharp-eyes/eludris-lonetrail-theme/tree/main/dark",
+        "readme_url": "https://raw.githubusercontent.com/Sharp-Eyes/eludris-lonetrail-theme/refs/heads/main/dark/README.md",
+        "style_url": "https://raw.githubusercontent.com/Sharp-Eyes/eludris-lonetrail-theme/refs/heads/main/dark/style.css"
     }
+
 ]
